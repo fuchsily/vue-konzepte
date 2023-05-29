@@ -1,3 +1,5 @@
+// Counter Componente wird in AboutPage integriert
+
 <template>
   <button @click="count++">You clicked me {{ count }} times.</button>
 </template>
